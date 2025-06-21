@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Dungeon Normal",
+    "preco": "0.50",
+    "descricao": "1 dungeon modo normal"
+  },
+  {
+    "nome": "Dungeon Desafio",
+    "preco": "0.70",
+    "descricao": "1 dungeon modo desafio"
+  },
+  {
+    "nome": "Geminha 63",
+    "preco": "20.00",
+    "descricao": "4x por semana"
+  }
+]
